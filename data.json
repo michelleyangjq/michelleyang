@@ -138,8 +138,20 @@
             "year": 2026,
             "image": "music/pov/pov-cover.png",
             "description": "A piano/vocal arrangement of Ariana Grande's song 'pov.'",
-            "audio": "assets/audio/piano-arrangement.mp3",
+            "audio": "assets/audio/pov-audio.mp3",
             "score": "music/pov/pov-score.pdf"
+        },
+
+        {
+            "id": "intermezzo-in-a",
+            "title": "Intermezzo in A Major, Op. 118 No. 2",
+            "ensemble": "Symphony Orchestra",
+            "type": "Arrangement",
+            "year": 2026,
+            "image": "music/intermezzo-in-a/intermezzo-in-a-cover.png",
+            "description": "An arrangement of one of my favorite piano works in classical music: Brahms's 'Intermezzo in A Major', Op. 118 No. 2. Work is still in project but feel free to take a look at the current work.",
+            "audio": "assets/audio/intermezzo-in-a-audio.mp3",
+            "score": "music/intermezzo-in-a/intermezzo-in-a-score.pdf"
         }
     ]
 }
