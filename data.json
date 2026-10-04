@@ -57,79 +57,17 @@
     ],
 
     "music": [
-
         {
-            "id": "sukidakara",
-            "title": "Sukidakara (Because I Love You)",
-            "ensemble": "Piano/Vocal",
-            "type": "Transcription",
-            "year": 2023,
-            "image": "music/sukidakara/sukidakara-cover.png",
-            "description": "A transcription of Yuika's song 'Sukidakara (Piano ver).'",
-            "audio": "music/sukidakara/sukidakara-audio.mp3",
-            "score": "music/sukidakara/sukidakara-score.pdf"
-        },
-
-        {
-            "id": "wind-of-provence",
-            "title": "Wind of Provence",
-            "ensemble": "Piano/Solo Instrument",
-            "type": "Arrangement",
-            "year": 2023,
-            "image": "music/wind-of-provence/wind-of-provence-cover.png",
-            "description": "An arrangement of Naoki Tasaka's 'Wind of Provence,' originally for wind ensemble, reduced for piano and solo instrument.",
-            "audio": "music/wind-of-provence/wind-of-provence-audio.mp3",
-            "score": "music/wind-of-provence/wind-of-provence-score.pdf"
-        },
-
-        {
-            "id": "into-the-unknown",
-            "title": "Into the Unknown (from Frozen 2)",
-            "ensemble": "Wind Ensemble",
-            "type": "Arrangement",
-            "year": 2024,
-            "image": "music/into-the-unknown/into-the-unknown-cover.png",
-            "description": "An arrangement of 'Into the Unknown' for wind ensembles.",
-            "audio": "music/into-the-unknown/into-the-unknown-audio.mp3",
-            "score": "music/into-the-unknown/into-the-unknown-score.pdf"
-        },
-
-        {
-            "id": "bleeding-love",
-            "title": "Bleeding Love",
-            "ensemble": "Piano/Vocal",
+            "id": "intermezzo-in-a",
+            "title": "Intermezzo in A Major, Op. 118 No. 2",
+            "ensemble": "Symphony Orchestra",
             "type": "Arrangement",
             "year": 2026,
-            "image": "music/bleeding-love/bleeding-love-cover.png",
-            "description": "An arrangement of Leona Lewis's 'Bleeding Love' for piano and vocal, inspired by Ni/Co's beautiful cover of the song.",
-            "audio": "music/bleeding-love/bleeding-love-audio.mp3",
-            "score": "music/bleeding-love/bleeding-love-score.pdf"
+            "image": "music/intermezzo-in-a/intermezzo-in-a-cover.png",
+            "description": "An arrangement of one of my favorite piano works in classical music: Brahms's 'Intermezzo in A Major', Op. 118 No. 2. Work is still in project but feel free to take a look at the current work.",
+            "audio": "music/intermezzo-in-a/intermezzo-in-a-audio.mp3",
+            "score": "music/intermezzo-in-a/intermezzo-in-a-score.pdf"
         },
-
-        {
-            "id": "pearls_and_jades",
-            "title": "Pearls and Jades (珠玉)",
-            "ensemble": "Piano/Vocal",
-            "type": "Arrangement",
-            "year": 2025,
-            "image": "music/pearls-and-jades/pearls-and-jades-cover.png",
-            "description": "An arrangement of Yichun Shan's song 'Pearls and Jades' for piano and vocal.",
-            "audio": "music/pearls-and-jades/pearls-and-jades-audio.mp3",
-            "score": "music/pearls-and-jades/pearls-and-jades-score.pdf"
-        },
-
-        {
-            "id": "how-to-train-your-dragon-medley",
-            "title": "How to Train Your Dragon Medley",
-            "ensemble": "String Ensemble",
-            "type": "Arrangement",
-            "year": 2026,
-            "image": "music/httyd-medley/httyd-medley-cover.png",
-            "description": "A medley I arranged for UCLA's Con Brio String Orchestra. <br> This is Berk | See You Tomorrow | Romantic Flight | Test Drive",
-            "audio": "music/httyd-medley/httyd-medley-audio.mp3",
-            "score": "music/httyd-medley/httyd-medley-score.pdf"
-        },
-
         {
             "id": "pov",
             "title": "pov",
@@ -141,17 +79,71 @@
             "audio": "music/pov/pov-audio.mp3",
             "score": "music/pov/pov-score.pdf"
         },
-
         {
-            "id": "intermezzo-in-a",
-            "title": "Intermezzo in A Major, Op. 118 No. 2",
-            "ensemble": "Symphony Orchestra",
+            "id": "how-to-train-your-dragon-medley",
+            "title": "How to Train Your Dragon Medley",
+            "ensemble": "String Ensemble",
             "type": "Arrangement",
             "year": 2026,
-            "image": "music/intermezzo-in-a/intermezzo-in-a-cover.png",
-            "description": "An arrangement of one of my favorite piano works in classical music: Brahms's 'Intermezzo in A Major', Op. 118 No. 2. Work is still in project but feel free to take a look at the current work.",
-            "audio": "music/intermezzo-in-a/intermezzo-in-a-audio.mp3",
-            "score": "music/intermezzo-in-a/intermezzo-in-a-score.pdf"
+            "image": "music/httyd-medley/httyd-medley-cover.png",
+            "description": "A medley I arranged for UCLA's Con Brio String Orchestra. <br> This is Berk | See You Tomorrow | Romantic Flight | Test Drive",
+            "audio": "music/httyd-medley/httyd-medley-audio.mp3",
+            "score": "music/httyd-medley/httyd-medley-score.pdf"
+        },
+        {
+            "id": "pearls_and_jades",
+            "title": "Pearls and Jades (珠玉)",
+            "ensemble": "Piano/Vocal",
+            "type": "Arrangement",
+            "year": 2025,
+            "image": "music/pearls-and-jades/pearls-and-jades-cover.png",
+            "description": "An arrangement of Yichun Shan's song 'Pearls and Jades' for piano and vocal.",
+            "audio": "music/pearls-and-jades/pearls-and-jades-audio.mp3",
+            "score": "music/pearls-and-jades/pearls-and-jades-score.pdf"
+        },
+        {
+            "id": "bleeding-love",
+            "title": "Bleeding Love",
+            "ensemble": "Piano/Vocal",
+            "type": "Arrangement",
+            "year": 2026,
+            "image": "music/bleeding-love/bleeding-love-cover.png",
+            "description": "An arrangement of Leona Lewis's 'Bleeding Love' for piano and vocal, inspired by Ni/Co's beautiful cover of the song.",
+            "audio": "music/bleeding-love/bleeding-love-audio.mp3",
+            "score": "music/bleeding-love/bleeding-love-score.pdf"
+        },
+        {
+            "id": "into-the-unknown",
+            "title": "Into the Unknown (from Frozen 2)",
+            "ensemble": "Wind Ensemble",
+            "type": "Arrangement",
+            "year": 2024,
+            "image": "music/into-the-unknown/into-the-unknown-cover.png",
+            "description": "An arrangement of 'Into the Unknown' for wind ensembles.",
+            "audio": "music/into-the-unknown/into-the-unknown-audio.mp3",
+            "score": "music/into-the-unknown/into-the-unknown-score.pdf"
+        },
+        {
+            "id": "wind-of-provence",
+            "title": "Wind of Provence",
+            "ensemble": "Piano/Solo Instrument",
+            "type": "Arrangement",
+            "year": 2023,
+            "image": "music/wind-of-provence/wind-of-provence-cover.png",
+            "description": "An arrangement of Naoki Tasaka's 'Wind of Provence,' originally for wind ensemble, reduced for piano and solo instrument.",
+            "audio": "music/wind-of-provence/wind-of-provence-audio.mp3",
+            "score": "music/wind-of-provence/wind-of-provence-score.pdf"
+        },
+        {
+            "id": "sukidakara",
+            "title": "Sukidakara (Because I Love You)",
+            "ensemble": "Piano/Vocal",
+            "type": "Transcription",
+            "year": 2023,
+            "image": "music/sukidakara/sukidakara-cover.png",
+            "description": "A transcription of Yuika's song 'Sukidakara (Piano ver).'",
+            "audio": "music/sukidakara/sukidakara-audio.mp3",
+            "score": "music/sukidakara/sukidakara-score.pdf"
         }
     ]
 }
